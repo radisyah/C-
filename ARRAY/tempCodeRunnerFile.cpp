@@ -1,0 +1,2 @@
+	
+	printArray(angka);
